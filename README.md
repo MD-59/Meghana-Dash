@@ -8,7 +8,7 @@
   </div>
 
   <!-- Optional Logo or Image -->
- <img src="https://github.com/MD-59/Meghana-Dash/blob/main/Elegant%20Minimalist%20Background%20Gold%20and%20Beige%20Instagram%20Post.png" style="width:100%; height:200px; object-fit:cover;">
+ <img src="https://github.com/MD-59/Meghana-Dash/blob/main/data%20analyst%20img.jpg" style="width:100%; height:200px; object-fit:cover;">
 </div>
 
 <!-- Gradient Welcome Section -->
