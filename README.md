@@ -1,5 +1,5 @@
 <!-- Rectangular Header Banner with Name and Designation -->
-<div style="width:100%; background: linear-gradient(to right, #764BA2, #667EEA); border-radius: 12px; padding: 40px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); position: relative;">
+<!--<div style="width:100%; background: linear-gradient(to right, #764BA2, #667EEA); border-radius: 12px; padding: 40px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); position: relative;"> -->
 
   <!-- Name and Designation in Corner -->
   <div style="position: absolute; top: 20px; right: 30px; text-align: right;">
@@ -8,7 +8,7 @@
   </div>
 
   <!-- Optional Logo or Image -->
-  <img src="https://your-logo-url.com/logo.png" alt="Meghana Logo" style="height: 80px; border-radius: 50%;">
+ <img src="https://github.com/MD-59/Meghana-Dash/blob/main/Elegant%20Minimalist%20Background%20Gold%20and%20Beige%20Instagram%20Post.png" style="width:100%; height:200px; object-fit:cover;">
 </div>
 
 <!-- Gradient Welcome Section -->
