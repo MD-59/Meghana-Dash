@@ -72,7 +72,7 @@ I'm a business-savvy data analyst who transforms raw data into actionable insigh
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/meghana-dash-931a002ab"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/meghana-dash-931a002ab"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="meghanadash23@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png"/></a>
   <a href="https://github.com/MD-59"><img src="https://img.icons8.com/material-rounded/48/000000/github.png"/></a>
 </p>
